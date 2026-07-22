@@ -11,4 +11,4 @@ services:
       - key: SERVER_URL
         value: https://evolution-api.onrender.com
       - key: AUTHENTICATION_API_KEY
-        value: !@#WhatsApp.!@#
+        value: 123SeguraSuperSenhaSua
